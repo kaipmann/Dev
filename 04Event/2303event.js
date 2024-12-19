@@ -14,3 +14,5 @@ eventEmitter.on('myEvent', eventHandler);
 
 // Fire the 'myEvent' event
 eventEmitter.emit('myEvent');
+
+

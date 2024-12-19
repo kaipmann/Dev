@@ -5,6 +5,9 @@
 		},
 		{
 			"path": "../Dev2"
+		},
+		{
+			"path": "../CAP_Dev"
 		}
 	],
 	"settings": {}

@@ -7,7 +7,7 @@ const port =  process.env.VCAP_APP_PORT || 3001
 //API?
 app.get('/', (req,res) => {
     console.log("How are you?");
-    res.send("Hello World");
+    res.send("Hello World!");
 });
 
 app.get('/user/:userId', (req,res) => {
